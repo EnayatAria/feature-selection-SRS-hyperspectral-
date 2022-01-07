@@ -4,7 +4,7 @@
  written by E. Hosseini Aria
 
  The original article of the method is:
- Spectral region identification versus individual channel selection in supervised dimensionality reduction of hyperspectral image data
+ Unsupervised dimensionality reduction of hyperspectral images using representations of reflectance spectra
 
 """
 
